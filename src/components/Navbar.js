@@ -10,7 +10,7 @@ import { FiInstagram } from "react-icons/fi";
 function Navbar() {
   return (
     <nav className={styles.navSection}>
-      <div className={styles.navContainer}>
+      <div999 className={styles.navContainer}>
         <div className={styles.navbar}>
           <div className={styles.logoContainer}>
             <Image src={Logo} width={70} height={70} />
@@ -52,7 +52,7 @@ function Navbar() {
             </Link>
           </div>
         </div>
-      </div>
+      </div999>
     </nav>
   );
 }
