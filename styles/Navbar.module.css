@@ -1,0 +1,51 @@
+.navSection {
+    height: 90px;
+    width: 100%;
+}
+
+.navContainer {
+    margin: auto;
+    width: 1000px;
+    overflow: auto;
+}
+
+.navbar {
+    display: flex;
+}
+
+.logoContainer {
+    padding: 0 8px;
+    margin-top: 8px;
+}
+
+
+.menu {
+    margin-left: 150px;
+}
+
+.menu li {
+    margin: 0 5px;
+    line-height: 80px;
+    display: inline-block;
+}
+
+.menu li a {
+    font-size: 16px;
+    padding: 7px 13px;
+    color: rgb(79, 79, 95);
+    cursor: pointer;
+}
+
+.menu li a:hover {
+    color: rgb(8, 8, 83);
+    border-bottom: 1px solid rgb(8, 8, 53);
+}
+
+.socialIcons {
+    margin: 25px 0 0 170px;
+}
+
+.indvIcon {
+    margin: 8px;
+    color: rgb(79, 79, 95);
+}

@@ -7,6 +7,9 @@
   sans-serif;
   box-sizing: border-box;
 }
+body {
+  background: rgb(251,252,252);
+}
 
 a {
   color: inherit;
